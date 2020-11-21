@@ -1,4 +1,4 @@
-package com.tallerelectronica.ProyectoApp;
+package com.tallerdeelectronica.petcare;
 
 import org.junit.Test;
 

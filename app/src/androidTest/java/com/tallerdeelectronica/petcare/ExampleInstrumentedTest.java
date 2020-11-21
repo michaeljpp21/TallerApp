@@ -1,4 +1,4 @@
-package com.tallerelectronica.ProyectoApp;
+package com.tallerdeelectronica.petcare;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.tallerelectronica.ProyectoApp", appContext.getPackageName());
+        assertEquals("com.tallerdeelectronica.petcare", appContext.getPackageName());
     }
 }
